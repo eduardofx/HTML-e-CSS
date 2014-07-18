@@ -1,0 +1,54 @@
+/*---- contato ----*/
+#contactform {	
+    width: 500px;
+    padding: 50px;
+    background: #f0f0f0;
+    overflow:auto;
+ 
+    /* Border style */
+    border: 1px solid #cccccc;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px; 
+ 
+    /* Border Shadow */
+    -moz-box-shadow: 2px 2px 2px #cccccc;
+    -webkit-box-shadow: 2px 2px 2px #cccccc;
+    box-shadow: 2px 2px 2px #cccccc;
+ 
+    }
+
+    label {
+    font-family: Arial, Verdana;
+    text-shadow: 2px 2px 2px #ccc;
+    color: #638cb5;
+    display: block;
+    float: left; margin-right:15px;
+    font-weight: bold;
+    margin-right:10px;
+    text-align: right;
+    width: 120px;
+    line-height: 25px;
+    font-size: 15px;
+    }
+
+    h2 {
+        font-family: Arial, Verdana;
+        text-shadow: 2px 2px 2px #ccc;
+        color: #638cb5;
+    }
+
+    .btn {
+        position: absolute;
+        left: 190px;
+        top: 230px;
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        text-shadow: 2px 2px 2px #ccc;
+        border:0px;
+        width:80px;
+        height:19px;
+       }
